@@ -7,8 +7,8 @@
 ## ✨ Heroku Deploy ✨
 The easiest way to deploy this Bot is via Heroku.
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/anoj251/ZandyMusicBot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZandyBots/ZandyMusicBot)
 
 
 ## ✨ Bot Owner (Coded By) ✨
-Anoj Yasarathne is Created This Bot
+Coded By Zandy Bots 
